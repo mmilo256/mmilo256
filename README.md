@@ -28,11 +28,11 @@
 
 ## 💼 Proyectos destacados
 - [🛠️ **Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
-- [📋 **Gestor de audiencias municipales**](#): Aplicación para gestionar reuniones entre ciudadanos y el alcalde.
-- [📊 **Sistema de inventario TIC**](#): Herramienta para registrar y monitorear activos tecnológicos municipales.
+- [📋 **SmartSell POS**](#): Sistema de Punto de Venta realizado con el equipo de BlackNexus. Hecho con NextJS y Django
 
 
 ## 📬 Contacto
-- 📧 **Correo**: [miemail@gmail.com](mailto:miemail@gmail.com)
-- 🌐 **LinkedIn**: [Mi perfil en LinkedIn](https://linkedin.com/in/tu-perfil)
-- 🐦 **Twitter**: [Mi perfil en Twitter](https://twitter.com/tu_usuario)
+- 📧 **Correo**: [emiliosotoandrade256@gmail.com](#)
+- 🌐 **LinkedIn**: [Mi perfil en LinkedIn](https://linkedin.com/in/emilio-soto-andrade)
+- 📷 **Instagram**: [Mi perfil en Instagram](https://www.instagram.com/milo97.py/)
+- ⏯️ **YouTube**: [Mi canal en YouTube](https://www.youtube.com/@emmil9797)
