@@ -27,7 +27,7 @@
 
 
 ## 💼 Proyectos destacados
-- [🛠️ **Municipio Virtual de Chonchi**]((https://municipio-virtual.onrender.com/)): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
+- [🛠️ **Municipio Virtual de Chonchi**]([#](https://municipio-virtual.onrender.com/)): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
 - [📋 **Gestor de audiencias municipales**](#): Aplicación para gestionar reuniones entre ciudadanos y el alcalde.
 - [📊 **Sistema de inventario TIC**](#): Herramienta para registrar y monitorear activos tecnológicos municipales.
 
