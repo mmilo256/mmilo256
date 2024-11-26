@@ -9,8 +9,8 @@
 - 🚀 Actualmente trabajando como Desarrollador en la Municipalidad de Chonchi
 
 ## 💼 Proyectos destacados
-- [🛠️ **Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
-- [📋 **SmartSell POS**](#): Sistema de Punto de Venta realizado con el equipo de BlackNexus. Hecho con NextJS y Django
+- [**Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
+- **SmartSell POS**](#): Sistema de Punto de Venta realizado con el equipo de BlackNexus. Hecho con NextJS y Django
 
 ## 🛠️ Tecnologías y Herramientas
 ### Frontend
