@@ -2,7 +2,6 @@
 <h3 align="center">Ingeniero Informático | Desarrollador de Software</h3>
 
 ## 🌟 Sobre mí
-- 👨‍💻 Desarrollador de Software.
 - 🌎 De **Chile**.
 - 🧑‍🏫 Experiencia en el desarrollo de sistemas web y trabajo en equipo
 - 📖 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
