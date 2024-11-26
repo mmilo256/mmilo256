@@ -1,5 +1,5 @@
 <h1 align="center">Emilio Soto Andrade</h1>
-<h3 align="center">Ingeniero Informático | Desarrollador Full Stack</h3>
+<h3 align="center">Ingeniero Informático | Desarrollador de Software</h3>
 
 ## 🌟 Sobre mí
 - 👨‍💻 Desarrollador de Software.
@@ -10,6 +10,7 @@
 
 
 ## 🛠️ Tecnologías y Herramientas
+### 🛠️ Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
