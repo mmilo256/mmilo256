@@ -5,7 +5,7 @@
 - 🌎 De **Chile**.
 - 🧑‍🏫 Experiencia en el desarrollo de sistemas web y trabajo en equipo
 - 📖 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
-- 🚀 Actualmente trabajando como Desarrollador en la Municipalidad de Chonchi
+- 🚀 Actualmente trabajando como Desarrollador Web en la Municipalidad de Chonchi
 
 ## 💼 Proyectos destacados
 - [**Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
