@@ -6,7 +6,7 @@
 - 🌎 De **Chile**.
 - 🧑‍🏫 Experiencia en el desarrollo de sistemas web y trabajo en equipo
 - 📖 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
-- 🚀 Actualmente trabajando como Desarrollador en la Ilustre Municipalidad de Chonchi
+- 🚀 Actualmente trabajando como Desarrollador en la Municipalidad de Chonchi
 
 
 ## 🛠️ Tecnologías y Herramientas
