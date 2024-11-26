@@ -8,6 +8,9 @@
 - 📖 Siempre aprendiendo nuevas tecnologías y buenas prácticas.
 - 🚀 Actualmente trabajando como Desarrollador en la Municipalidad de Chonchi
 
+## 💼 Proyectos destacados
+- [🛠️ **Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
+- [📋 **SmartSell POS**](#): Sistema de Punto de Venta realizado con el equipo de BlackNexus. Hecho con NextJS y Django
 
 ## 🛠️ Tecnologías y Herramientas
 ### Frontend
@@ -28,12 +31,6 @@
 ### Herramientas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-
-## 💼 Proyectos destacados
-- [🛠️ **Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
-- [📋 **SmartSell POS**](#): Sistema de Punto de Venta realizado con el equipo de BlackNexus. Hecho con NextJS y Django
-
 
 ## 📬 Contacto
 - 📧 **Correo**: [emiliosotoandrade256@gmail.com](#)
