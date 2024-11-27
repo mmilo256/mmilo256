@@ -8,7 +8,7 @@
 - 🚀 Actualmente trabajando como Desarrollador Web en la Municipalidad de Chonchi
 
 ## 💼 Proyectos destacados
-- [**Municipio Virtual de Chonchi**](#): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
+- [**Municipio Virtual de Chonchi**](https://github.com/mmilo256/municipio-virtual-chonchi): Portal web de la Ilustre Municipalidad de Chonchi para realizar solicitudes y tramitaciones usando ClaveÚnica.
 
 ## 🛠️ Tecnologías y Herramientas
 #### Frontend
